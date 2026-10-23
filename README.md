@@ -12,10 +12,12 @@ Gameplay programmer, songwriter, and doer of whatever else that interests me
 > Over a decade in experience dabbling in various technologies
 >
 > Recently started exploring the usage of AI for doing diagnosis, analyisis and automated testing
+> <br> With the goal of maintaining my regular high quality code standards with automation for menial tasks
 > 
 > Obsessed with the Beatles
 ## Stats
 ![](https://komarev.com/ghpvc/?username=vinylxdev)
 
+<img src="https://github.vinyl.dev/api/top-langs?username=vinylxdev&layout=compact&langs_count=8&theme=tokyonight" height="165" alt="top langs"/>
 
 </div>
