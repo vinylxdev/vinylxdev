@@ -16,9 +16,8 @@ Gameplay programmer, songwriter, and doer of whatever else that interests me
 > 
 > Obsessed with the Beatles
 ## Stats
-
 <img src="https://komarev.com/ghpvc/?username=vinylxdev" alt="profile views"/>
-
+<br>
 <img src="https://github.vinyl.dev/api/top-langs?username=vinylxdev&layout=compact&langs_count=8&theme=tokyonight" height="165" alt="top langs"/>
 
 </div>
