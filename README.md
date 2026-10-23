@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vinylxdev/vinylxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ABOUT ME
+Gameplay programmer, songwriter, and doer of whatever else that interests me
 
-Here are some ideas to get you started:
+<sub>[website](https://www.vinyl.dev)</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Been writing professional C++ gameplay code since 2020
+> <br>Most experienced with Unreal Engine 3 to 5
+> <br>Hit me up if you want to know my project history
+>
+> Over a decade in experience dabbling in various technologies
+>
+> Recently started exploring the usage of AI for doing diagnosis, analyisis and automated testing
+> 
+> Obsessed with the Beatles
+## Stats
+![](https://komarev.com/ghpvc/?username=vinylxdev)
+
+
+</div>
