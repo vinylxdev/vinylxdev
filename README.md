@@ -14,7 +14,7 @@ Gameplay programmer, songwriter, and doer of whatever else that interests me
 > Recently started exploring the usage of AI for doing diagnosis, analyisis and automated testing
 > <br> With the goal of maintaining my regular high quality code standards with automation for menial tasks
 > 
-> Obsessed with the Beatles
+> Obsessed with The Beatles
 ## Stats
 <img src="https://komarev.com/ghpvc/?username=vinylxdev" alt="profile views"/>
 <br>
